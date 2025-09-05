@@ -22,13 +22,13 @@
     <tr>
         <td align="center"><a href="https://github.com/d4been"><img src="https://avatars.githubusercontent.com/d4been" width="130px;" height="130px" alt=""></a></td>
         <td align="center"><a href="https://github.com/yeongbeomSong"><img src="https://avatars.githubusercontent.com/yeongbeomSong" width="130px;" height="130px" alt=""></a></td>
-        <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/bogwang159" width="130px;" height="130px" alt=""></a></td>
+        <td align="center"><a href="https://github.com/LGY77932"><img src="https://avatars.githubusercontent.com/LGY77932" width="130px;" height="130px" alt=""></a></td>
         <td align="center"><a href="https://github.com/Hirundo537"><img src="https://avatars.githubusercontent.com/Hirundo537" width="130px;" height="130px" alt=""></a></td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/d4been-in"><b>d4been</b></a></td>
         <td align="center"><a href="https://https://github.com/yeongbeomSong"><b>yeongbeomSong</b></a></td>
-        <td align="center"><a href="https://github.com/"><b>이기윤</b></a></td>
+        <td align="center"><a href="https://github.com/LGY77932"><b>LGY77932</b></a></td>
         <td align="center"><a href="https://github.com/Hirundo537"><b>Hirundo537</b></a></td>
     </tr>
 </table>
