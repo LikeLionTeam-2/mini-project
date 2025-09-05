@@ -7,59 +7,30 @@
 ## 👥 팀원
 
 <table>
- <tr>
-  <td align="center">
-    <a href="https://github.com/Hae-in">
-      <img src="https://avatars.githubusercontent.com/Hae-in" width="130" height="130" style="object-fit: cover;" alt="">
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/seongsiyoung">
-      <img src="https://avatars.githubusercontent.com/seongsiyoung" width="130" height="130" style="object-fit: cover;" alt="">
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/BokSIL-SEOB">
-      <img src="https://avatars.githubusercontent.com/BokSIL-SEOB" width="130" height="130" style="object-fit: cover;" alt="">
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/bogwang159">
-      <img src="https://avatars.githubusercontent.com/bogwang159" width="130" height="130" style="object-fit: cover;" alt="">
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/d4been">
-      <img src="https://avatars.githubusercontent.com/d4been" width="130" height="130" style="object-fit: cover;" alt="">
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/yeongbeomSong">
-      <img src="https://avatars.githubusercontent.com/yeongbeomSong" width="130" height="130" style="object-fit: cover;" alt="">
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/">
-      <img src="https://avatars.githubusercontent.com/" width="130" height="130" style="object-fit: cover;" alt="">
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/Hirundo537">
-      <img src="https://avatars.githubusercontent.com/Hirundo537" width="130" height="130" style="object-fit: cover;" alt="">
-    </a>
-  </td>
-</tr>
-
-  <tr>
-    <td align="center"><a href="https://github.com/Hae-in"><b>Hae-in</b></a></td>
-    <td align="center"><a href="https://https://github.com/seongsiyoung"><b>seongsiyoung</b></a></td>
-    <td align="center"><a href="https://github.com/BokSIL-SEOB"><b>BokSIL-SEOB</b></a></td>
-    <td align="center"><a href="https://github.com/bogwang159"><b>bogwang159</b></a></td>
-    <td align="center"><a href="https://github.com/d4been"><b>d4been</b></a></td>
-    <td align="center"><a href="https://github.com/yeongbeomSong"><b>yeongbeomSong</b></a></td>
-    <td align="center"><a href="https://github.com/"><b></b></a></td>
-    <td align="center"><a href="https://github.com/Hirundo537"><b>Hirundo537</b></a></td>
-  </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Hae-in"><img src="https://avatars.githubusercontent.com/Hae-in" width="130px;" height="130px" alt=""></a></td>
+        <td align="center"><a href="https://github.com/seongsiyoung"><img src="https://avatars.githubusercontent.com/seongsiyoung" width="130px;" height="130px" alt=""></a></td>
+        <td align="center"><a href="https://github.com/BokSIL-SEOB"><img src="https://avatars.githubusercontent.com/BokSIL-SEOB" width="130px;" height="130px" alt=""></a></td>
+        <td align="center"><a href="https://github.com/bogwang159"><img src="https://avatars.githubusercontent.com/bogwang159" width="130px;" height="130px" alt=""></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Hae-in"><b>Hae-in</b></a></td>
+        <td align="center"><a href="https://https://github.com/seongsiyoung"><b>seongsiyoung</b></a></td>
+        <td align="center"><a href="https://github.com/BokSIL-SEOB"><b>BokSIL-SEOB</b></a></td>
+        <td align="center"><a href="https://github.com/bogwang159"><b>bogwang159</b></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/d4been"><img src="https://avatars.githubusercontent.com/d4been" width="130px;" height="130px" alt=""></a></td>
+        <td align="center"><a href="https://github.com/yeongbeomSong"><img src="https://avatars.githubusercontent.com/yeongbeomSong" width="130px;" height="130px" alt=""></a></td>
+        <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/bogwang159" width="130px;" height="130px" alt=""></a></td>
+        <td align="center"><a href="https://github.com/Hirundo537"><img src="https://avatars.githubusercontent.com/Hirundo537" width="130px;" height="130px" alt=""></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/d4been-in"><b>d4been</b></a></td>
+        <td align="center"><a href="https://https://github.com/yeongbeomSong"><b>yeongbeomSong</b></a></td>
+        <td align="center"><a href="https://github.com/"><b>이기윤</b></a></td>
+        <td align="center"><a href="https://github.com/Hirundo537"><b>Hirundo537</b></a></td>
+    </tr>
 </table>
 
 ## 🗂️ 문서
