@@ -18,4 +18,8 @@ https://www.google.com/
 // 예시 코드
 function hello() {
   console.log("Hello Retrospective!");
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> db92f54 (Initial commit)
