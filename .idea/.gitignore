@@ -1,0 +1,24 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Personal dictionaries
+/dictionaries/
+
+# Local tasks
+/tasks.xml
+
+# IDE caches
+/.idea/.name
+/uiDesigner.xml
+
+# Gradle-specific IntelliJ files
+/gradle.xml
+/libraries/
