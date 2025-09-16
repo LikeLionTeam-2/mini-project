@@ -70,6 +70,11 @@ git checkout -b 이름
 git checkout -b Haein
 ```
 
+- 생성한 브랜치 push
+```
+git push --set-upstream origin Haein
+```
+
 ### 2.3 프로젝트 작성하기
 - 자신의 디렉토리 외에는 수정하지 않습니다.
 
